@@ -1,8 +1,8 @@
-# DMML2 Project (Group M)
+# Object Detection using Transfer Learning
 
-Where are the files?
-- Uploading them now.
+This project was implemented as part of the **Data Mining and Machine Learning 2** module of the MSc. Data Analytics course in National College of Ireland.
 
+*Note: Some files are missing from this repo as they exceded the file size limit of 50MB.*
 
 ### Important files and directories:
 

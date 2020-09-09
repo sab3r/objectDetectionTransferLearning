@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/models/trained/model.ckpt-500"
+all_model_checkpoint_paths: "/content/models/trained/model.ckpt-325"
+all_model_checkpoint_paths: "/content/models/trained/model.ckpt-379"
+all_model_checkpoint_paths: "/content/models/trained/model.ckpt-434"
+all_model_checkpoint_paths: "/content/models/trained/model.ckpt-489"
+all_model_checkpoint_paths: "/content/models/trained/model.ckpt-500"

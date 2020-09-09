@@ -1,0 +1,54 @@
+
+# LABEL file 
+
+
+item {
+    name:'traffic light'
+    id: 1
+}
+
+item {
+    name:'traffic sign'
+    id: 2
+}
+
+item {
+    name:'car'
+    id: 3
+}
+
+item {
+    name:'person'
+    id: 4
+}
+
+item {
+    name:'bus'
+    id: 5
+}
+
+item {
+    name:'truck'
+    id: 6
+}
+
+item {
+    name:'rider'
+    id: 7
+}
+
+item {
+    name:'bike'
+    id: 8
+}
+
+item {
+    name:'motor'
+    id: 9
+}
+
+item {
+    name:'train'
+    id: 10
+}
+
